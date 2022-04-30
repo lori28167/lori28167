@@ -5,4 +5,7 @@
 # What I'm working on
 -  I’m currently working on Discord Music Bot 🤖: New Rythm  
 <img src=img/download.jpg>
+<a href="https://top.gg/bot/966743296695214181">
+  <img src="https://top.gg/api/widget/servers/966743296695214181.svg">
+</a>
 
