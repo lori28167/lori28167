@@ -4,4 +4,5 @@
 <img src=img/download.jpg>
 
 # What I'm working on
--  I’m currently working on Discord Music Bot 🤖
+-  I’m currently working on Discord Music Bot 🤖: New Rythm  <img src=img/download.jpg>
+
