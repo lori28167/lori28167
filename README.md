@@ -3,6 +3,7 @@
 </a><a href="https://top.gg/bot/966743296695214181">
   <img src="https://top.gg/api/widget/upvotes/966743296695214181.svg">
 </a>
+
 # What I'am 
 - A developer 🐱‍💻
 - A translator to Italian 🟩⬜🟥
