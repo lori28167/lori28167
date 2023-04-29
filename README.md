@@ -7,3 +7,4 @@
 
 # Discord
 ![](https://discord.c99.nl/widget/theme-3/881119584156000326.png)
+![](https://discord.c99.nl/widget/theme-2/1099628268925222953.png)
