@@ -1,9 +1,9 @@
 # What I'am 
 - A developer 🐱‍💻
-- A translator to Italian 🟩⬜🟥
+- A Italian translater 🟩⬜🟥
 
 # What I'm working on
--  I’m currently working on a new Discord Bot: FAZ15
+-  I’m currently working on a AI italian voice models website.
 
 # Discord
 ![](https://discord.c99.nl/widget/theme-3/881119584156000326.png)
