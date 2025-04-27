@@ -1,5 +1,5 @@
 # What do I do 
-- I study at [Marconi Rovereto](https://www.marconirovereto.it/)
+- I study at [Marconi Rovereto](about:https://www.marconirovereto.it/)
 - I Translate code to Italian 🟩⬜🟥
 
 
