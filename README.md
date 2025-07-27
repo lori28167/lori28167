@@ -1,6 +1,7 @@
 # What do I do 
 - I study at <a href="https://www.marconirovereto.it/" target="_blank">Marconi Rovereto</a>
-- I Translate code to Italian 🟩⬜🟥
+- I love helping to translate code.
+- Studying Kotlin by myself
 
 
 # What I'm working on
