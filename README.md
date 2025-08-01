@@ -2,7 +2,7 @@
 - I study at <a href="https://www.marconirovereto.it/" target="_blank">Marconi Rovereto</a>
 - I love helping to translate code.
 - Studying Kotlin by myself
-- Helping to fix code of software I use
+- I help fix code of software I use
 
 # What I'm working on
 - I’m currently working on a App to listen to music from all the music platforms.
