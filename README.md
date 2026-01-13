@@ -1,6 +1,6 @@
 # What do I do 
 - I study at <a href="https://www.marconirovereto.it/" target="_blank">Marconi Rovereto</a>
-- I love helping to translate code.
+- I love helping to translate apps.
 - Studying Kotlin by myself
 - I help fix code of software I use
 
@@ -9,4 +9,3 @@
 - I'm always helping the community
 # Discord
 ![](https://discord.c99.nl/widget/theme-3/881119584156000326.png)
-a
