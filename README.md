@@ -1,6 +1,7 @@
 # What do I do 
 - I study at <a href="https://www.marconirovereto.it/" target="_blank">Marconi Rovereto</a>
-- I create Small PCBs 
+- I create Small PCBs
+- I am trying to create a Tech channel.
 - I love helping to translate apps.
 - Studying Kotlin by myself
 - I help fix code of software I use
