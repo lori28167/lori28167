@@ -7,7 +7,7 @@
 - I help fix code of software I use
 
 # My PCs
-- Laptop *Waiting for a new one*  🙃
+- Laptop Asus Vivobook S16 (AMD Ryzen AI 7, 16GB DDR5, 512GB SSD) (Running Omarchy)
 - Custom PC (Ryzen 5 4500, 16GB Ram, RTX 3060 12GB and 1TB Storage) (Running AtlasOS Win11)
 
 # Old PCs
